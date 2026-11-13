@@ -1,0 +1,10 @@
+# Directories not part of Arduino IDE coding workspace
+build/
+build_*/
+
+# Local Arduino build outputs & metadata
+*.hex
+*.elf
+.DS_Store
+Thumbs.db
+desktop.ini
