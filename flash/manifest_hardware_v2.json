@@ -1,6 +1,6 @@
 {
   "name": "Template_ESP32_Firmware (Hardware V2)",
-  "version": "Build 2026-11-13 06:16 UTC (e5893e7)",
+  "version": "Build 2026-11-13 06:17 UTC (b85390f)",
   "home_assistant_domain": "esp_web_tools",
   "new_install_prompt_erase": true,
   "builds": [
