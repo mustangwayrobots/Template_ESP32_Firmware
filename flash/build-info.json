@@ -1,0 +1,19 @@
+{
+  "repo": "Template_ESP32_Firmware",
+  "repo_url": "https://github.com/mustangwayrobots/Template_ESP32_Firmware",
+  "build_date": "2026-11-13 06:16",
+  "commit": "e5893e7",
+  "core": "esp32 3.3.12",
+  "boards": [
+    {
+      "id": "HARDWARE_V1",
+      "label": "Hardware V1",
+      "manifest": "manifest_hardware_v1.json"
+    },
+    {
+      "id": "HARDWARE_V2",
+      "label": "Hardware V2",
+      "manifest": "manifest_hardware_v2.json"
+    }
+  ]
+}
